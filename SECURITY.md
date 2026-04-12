@@ -246,7 +246,7 @@ a message is a critical vulnerability.
 
 ---
 
-## Version Support
+## Version Support (Deprecated section - version planning is being redone)
 
 | Version | Status | Security fixes |
 |---|---|---|
