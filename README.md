@@ -375,9 +375,9 @@ Please read `docs/SPEC.md` before opening a protocol issue. Most questions are a
 
 ## Licence
 
-Apache 2.0. See `LICENSE`.
-
-You are free to use, modify, and distribute Mystere. If you build something with it, consider contributing improvements back. That is how this works.
+MIT License. See `LICENSE`.
+Copyright clause attached.
+2026 vt-abt
 
 ---
 
